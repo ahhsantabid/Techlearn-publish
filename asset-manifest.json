@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/techlearning/static/css/main.7ebd761a.css",
+    "main.js": "/techlearning/static/js/main.8e7af4c6.js",
+    "index.html": "/techlearning/index.html",
+    "main.7ebd761a.css.map": "/techlearning/static/css/main.7ebd761a.css.map",
+    "main.8e7af4c6.js.map": "/techlearning/static/js/main.8e7af4c6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ebd761a.css",
+    "static/js/main.8e7af4c6.js"
+  ]
+}
